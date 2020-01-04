@@ -46,6 +46,9 @@ class MotorOutput:
         b_term = (self.get_intersection().y) - (slope * self.get_intersection().x)
 
         return Line(slope, b_term)
+    
+    def get_circle(self):
+        pass
   
 class Point:
     """ Point (x,y) """
