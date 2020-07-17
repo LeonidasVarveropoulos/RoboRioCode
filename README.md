@@ -1,2 +1,2 @@
 # RoboRioCode
-This is python got running on the RoboRio
+This is python code running on the RoboRio for frc robotics
